@@ -38,9 +38,9 @@ Retorna todos os veículos
 
 ---
 
-`GET /veiculos/find`
+`GET /veiculos/find?q={termo}`
 
-Retorna os veículos de acordo com o termo passado parâmetro `q`
+Retorna os veículos onde o `termo` passado via parametro `q` combine com os campos `veiculo` e `descricao`
 
 ---
 
