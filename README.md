@@ -20,8 +20,6 @@ Monte uma base de veículo com a seguinte estrutura:
 ```
 veiculo:   string
 marca:     string
-ano:       integer
-descricao: text
 vendido:   bool
 created:   datetime
 updated:   datetime
