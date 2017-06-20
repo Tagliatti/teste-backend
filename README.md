@@ -9,7 +9,7 @@ título `[Teste Backend] Finalizado` para lagden@textecnologia.com.br contendo o
 
 ## Missão
 
-- Desenvolver uma **API JSON RESTful** em **Go** ou **Node**
+- Desenvolver uma **API JSON RESTful** em **Node.js**
 - Faça os testes + coverage
 
 
