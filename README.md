@@ -1,10 +1,10 @@
 # Teste Backend
 
 Leia primeiro todo o projeto, faça sua estimativa de horas para o desenvolvimento e envie um email com o
-título `[Teste Backend] Estimativa` para lagden@textecnologia.com.br
+título `[Teste Backend] Estimativa` para rh@textecnologia.com.br
 
 Quando finalizar o teste, publique tudo no seu [Github](https://github.com) e envie um email com o
-título `[Teste Backend] Finalizado` para lagden@textecnologia.com.br contendo o link do repositório do projeto
+título `[Teste Backend] Finalizado` para rh@textecnologia.com.br contendo o link do repositório do projeto
 
 
 ## Missão
