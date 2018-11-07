@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome_veiculo: MyString
+  marca: MyString
+  descricao: MyString
+  vendido: 
+
+two:
+  nome_veiculo: MyString
+  marca: MyString
+  descricao: MyString
+  vendido: 
